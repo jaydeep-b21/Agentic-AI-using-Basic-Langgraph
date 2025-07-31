@@ -11,7 +11,7 @@ It can support three document types:
 
 ##  Demo
 
-![Demo](demo/langgraph_agent_gif1.gif)
+![Demo](Agentic%20AI%20using%20Langgraph/demo/langgraph_agent_gif1.gif)
 
 > _A walkthrough of how the workflow classifies and processes a document interactively._
 
