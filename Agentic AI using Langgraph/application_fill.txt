@@ -1,0 +1,69 @@
+
+Please fill out the required information. Use BLOCK letters and complete all sections.
+
+--------------------------------
+1. PERSONAL INFORMATION
+--------------------------------
+Full Name: ___________________________
+Date of Birth (YYYY-MM-DD): __________
+Gender (M/F/Other): _________________
+Phone Number: _______________________
+Email Address: ______________________
+Current Address: ____________________
+City: _______________________________
+Postal Code: ________________________
+Country: ____________________________
+
+--------------------------------
+2. POSITION / PURPOSE
+--------------------------------
+Position / Purpose of Application:
+_____________________________________
+
+Available Start Date (YYYY-MM-DD): ________________
+Preferred Work Type (Full-time/Part-time/Other): ___________
+Expected Salary (if applicable): ___________________________
+
+--------------------------------
+3. EDUCATION
+--------------------------------
+Highest Qualification: ________________________
+Institution Name: _____________________________
+Graduation Year: _____________________________
+Other Relevant Courses/Certifications:
+- ____________________________________
+- ____________________________________
+
+--------------------------------
+4. WORK EXPERIENCE
+--------------------------------
+Most Recent Job Title: ___________________________
+Company Name: _________________________________
+Duration (MM/YYYY – MM/YYYY): ___________________
+Key Responsibilities:
+- __________________________________________
+- __________________________________________
+- __________________________________________
+
+Previous Experience (if any):
+- Company: ______________________ | Role: ________________
+  Duration: ______________ | Reason for Leaving: ___________
+
+--------------------------------
+5. REFERENCES (OPTIONAL)
+--------------------------------
+Reference Name: __________________________
+Relationship: _____________________________
+Phone/Email: _____________________________
+
+Reference Name: __________________________
+Relationship: _____________________________
+Phone/Email: _____________________________
+
+--------------------------------
+6. DECLARATION
+--------------------------------
+I hereby declare that the above information is true and complete to the best of my knowledge.
+
+Signature (type your name): _______________________
+Date (YYYY-MM-DD): ____________________________
