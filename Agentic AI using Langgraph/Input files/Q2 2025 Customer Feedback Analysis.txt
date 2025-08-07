@@ -1,0 +1,98 @@
+Customer Satisfaction & Feedback Report – Q2 2025
+Date Generated: July 15, 2025
+Prepared By: Customer Experience & Insights Team
+
+1. Executive Summary
+This report outlines key insights from customer satisfaction surveys conducted throughout Q2 2025 (April–June). It includes aggregated metrics, feedback themes, satisfaction scores, and strategic recommendations. Overall, customer satisfaction remained stable, with notable improvements in response time and customer service quality.
+
+2. Survey Overview
+Survey Period: April 1, 2025 – June 30, 2025
+Total Respondents: 12,764
+Survey Distribution Channels:
+
+Email (52%)
+
+In-App Pop-Ups (28%)
+
+Website Forms (20%)
+
+Response Rate: 18.6%
+
+3. Key Metrics
+Metric	Q1 2025	Q2 2025	Change
+Customer Satisfaction Score (CSAT)	82%	85%	+3%
+Net Promoter Score (NPS)	38	42	+4
+Customer Effort Score (CES)	3.7	4.1	+0.4
+First Response Time (avg. hours)	6.2	4.8	-1.4
+Resolution Time (avg. hours)	12.5	10.1	-2.4
+
+4. Customer Feedback Breakdown
+Top Feedback Themes:
+Theme	% of Comments
+Fast & Friendly Support	28%
+Product Usability Issues	21%
+Positive Mobile Experience	16%
+Confusing Billing Process	12%
+Feature Requests	9%
+
+Representative Customer Comments:
+"The live chat support team was incredibly helpful!"
+
+"The app is great, but I'd love to see more integration with Google Calendar."
+
+"Billing section is hard to navigate — please make it simpler."
+
+5. Departmental Ratings
+Department	Satisfaction Rating (%)
+Customer Support	89%
+Technical Support	84%
+Billing & Accounts	68%
+Product Experience	77%
+
+6. Satisfaction by Product Line
+Product Line	Avg. CSAT (%)	NPS
+Core SaaS Platform	88%	45
+Mobile App	83%	41
+Premium Add-ons	76%	32
+
+7. Monthly Trends
+Month	CSAT (%)	NPS	Resolution Time (hrs)
+April	84%	39	10.5
+May	85%	42	9.9
+June	86%	44	9.8
+
+8. Regional Breakdown
+Region	Avg. CSAT (%)	Notable Insights
+North America	87%	High engagement via mobile
+Europe	82%	Concerns about billing clarity
+Asia-Pacific	79%	Great feedback on local language support
+Latin America	76%	Feature requests around payment methods
+
+9. Actionable Insights & Recommendations
+Improve Billing UX: Based on consistent negative feedback, prioritize redesign of the billing section in Q3.
+
+Enhance Feature Integration: Act on top-requested integrations like Google Calendar and Dropbox.
+
+Localize More: Expand multi-language support for Latin American and European customers.
+
+Expand Chat Availability: Extend live chat support hours to cover late evenings across all regions.
+
+10. Conclusion
+Customer satisfaction increased in Q2 2025, reflecting ongoing improvements in support and service speed. However, product teams must address usability and billing concerns to sustain momentum into Q3 and beyond.
+
+11. Appendix
+A. Survey Questions Overview
+"How satisfied are you with your recent experience?"
+
+"How likely are you to recommend our service?"
+
+"How easy was it to resolve your issue?"
+
+"What could we do better?"
+
+B. Additional Charts & Graphs
+[Bar Chart: Monthly CSAT Trends]
+
+[Pie Chart: Feedback Theme Distribution]
+
+[Line Graph: NPS Over 6 Months]
